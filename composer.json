@@ -1,5 +1,5 @@
 {
-    "name": "fluentdom/fluentdom",
+    "name": "johnhamelink/fluentdom",
     "type": "library",
     "description": "A fluent api for the php dom extension.",
     "keywords": [
