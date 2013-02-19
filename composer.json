@@ -1,7 +1,7 @@
 {
     "name": "fluentdom/fluentdom",
     "type": "library",
-    "description": "A fluent api for the php dom extension. This fork makes fluentdom work with composer's autoloader correctly",
+    "description": "A fluent api for the php dom extension.",
     "keywords": [
         "xml",
         "dom",
