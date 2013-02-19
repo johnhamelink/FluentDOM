@@ -19,6 +19,6 @@
         "php": ">=5.2.0"
     },
     "autoload": {
-        "classmap": ["src/FluentDOM", "src/FluentDOM.php"]
+        "psr-0": ["src"]
     }
 }
