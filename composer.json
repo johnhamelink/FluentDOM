@@ -2,16 +2,23 @@
     "name": "fluentdom/fluentdom",
     "type": "library",
     "description": "A fluent api for the php dom extension. This fork makes fluentdom work with composer's autoloader correctly",
-    "keywords": ["xml","dom","jquery"],
+    "keywords": [
+        "xml",
+        "dom",
+        "jquery"
+    ],
     "license": "MIT",
     "homepage": "http://fluentdom.org",
     "authors": [
-        {"name": "FluentDOM Contributors", "homepage": "https://github.com/FluentDOM/FluentDOM/contributors"}
+        {
+            "name": "FluentDOM Contributors",
+            "homepage": "https://github.com/FluentDOM/FluentDOM/contributors"
+        }
     ],
     "require": {
         "php": ">=5.2.0"
     },
-    {
-        "classmap" : ["src/"]
-    }
+    "classmap": [
+        "src/"
+    ]
 }
